@@ -1,0 +1,24 @@
+﻿  Game.cpp
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(197): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(199): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(205): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(207): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(327): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(335): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\jared\documents\visual studio 2015\projects\pa10finalprojectcpts122\pa10finalprojectcpts122\game.cpp(337): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  PA10FinalProjectCPTS122.vcxproj -> C:\Users\Jared\Documents\Visual Studio 2015\Projects\PA10FinalProjectCPTS122\Debug\PA10FinalProjectCPTS122.exe
